@@ -9,4 +9,4 @@ The idea is that every process has to have one thread just for communication and
 [Project Schedule]()  
 
 ## Team Members
-1. Sankalp Agrawal
+1. KienNT
